@@ -72,7 +72,6 @@
     <Compile Include="001-CheckTheIntegerArrayIsValidMountainArray\MountainArrayValidator_Approach_01.cs" />
     <Compile Include="001-CheckTheIntegerArrayIsValidMountainArray\MountainArrayValidator_Approach_02.cs" />
     <Compile Include="002-IntegerReverser\IntegerReverser.cs" />
-    <Compile Include="003-TwoSum\TwoSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

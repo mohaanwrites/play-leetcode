@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.Tests", "Leetcode.Tests\Leetcode.Tests.csproj", "{F1296A4E-E690-4138-B8AA-FFFF8DFE5DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode", "Leetcode\Leetcode.csproj", "{F19436F6-7C93-412B-8B7C-920B45C7D399}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Submissions", "Submissions", "{DED35102-4698-4F43-BC42-A9C4FBC71AD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001-CheckTheIntegerArrayIsValidMountainArray", "001-CheckTheIntegerArrayIsValidMountainArray", "{2CDFD088-633F-458E-AA85-2E31E52BD504}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\MountainArrayValidator_Approach_01.pdf = ..\..\..\Desktop\MountainArrayValidator_Approach_01.pdf
+		..\..\..\Desktop\MountainArrayValidator_Approach_02.pdf = ..\..\..\Desktop\MountainArrayValidator_Approach_02.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1296A4E-E690-4138-B8AA-FFFF8DFE5DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1296A4E-E690-4138-B8AA-FFFF8DFE5DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1296A4E-E690-4138-B8AA-FFFF8DFE5DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1296A4E-E690-4138-B8AA-FFFF8DFE5DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19436F6-7C93-412B-8B7C-920B45C7D399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19436F6-7C93-412B-8B7C-920B45C7D399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19436F6-7C93-412B-8B7C-920B45C7D399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19436F6-7C93-412B-8B7C-920B45C7D399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2CDFD088-633F-458E-AA85-2E31E52BD504} = {DED35102-4698-4F43-BC42-A9C4FBC71AD8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE14D038-6751-4F37-8EBD-3E4A374CE8AF}
+	EndGlobalSection
+EndGlobal
